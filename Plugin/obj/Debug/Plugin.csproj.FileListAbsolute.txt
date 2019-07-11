@@ -5,3 +5,10 @@ C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.
 C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.csproj.CopyComplete
 C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.dll
 C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.pdb
+C:\RevatureC#\Project2\Project2Revature\Plugin\bin\Debug\Plugin.dll
+C:\RevatureC#\Project2\Project2Revature\Plugin\bin\Debug\Plugin.pdb
+C:\RevatureC#\Project2\Project2Revature\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\RevatureC#\Project2\Project2Revature\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+C:\RevatureC#\Project2\Project2Revature\Plugin\obj\Debug\Plugin.csproj.CopyComplete
+C:\RevatureC#\Project2\Project2Revature\Plugin\obj\Debug\Plugin.dll
+C:\RevatureC#\Project2\Project2Revature\Plugin\obj\Debug\Plugin.pdb

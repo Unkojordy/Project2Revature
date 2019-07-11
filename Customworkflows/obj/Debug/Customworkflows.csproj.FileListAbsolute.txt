@@ -6,3 +6,12 @@ C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debu
 C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debug\Customworkflows.csproj.CopyComplete
 C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debug\Customworkflows.dll
 C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debug\Customworkflows.pdb
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\bin\Debug\Customworkflows.dll
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\bin\Debug\Customworkflows.pdb
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\obj\Debug\Customworkflows.csprojAssemblyReference.cache
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\obj\Debug\Customworkflows.csproj.CoreCompileInputs.cache
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\obj\Debug\Customworkflows.csproj.CopyComplete
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\obj\Debug\Customworkflows.dll
+C:\RevatureC#\Project2\Project2Revature\Customworkflows\obj\Debug\Customworkflows.pdb
