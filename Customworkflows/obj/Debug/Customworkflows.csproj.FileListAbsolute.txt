@@ -1,0 +1,8 @@
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\bin\Debug\Customworkflows.dll
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\bin\Debug\Customworkflows.pdb
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debug\Customworkflows.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debug\Customworkflows.csproj.CopyComplete
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debug\Customworkflows.dll
+C:\Users\DAVID\source\repos\Insurance management system\Customworkflows\obj\Debug\Customworkflows.pdb

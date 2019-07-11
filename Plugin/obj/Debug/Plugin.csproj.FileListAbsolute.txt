@@ -1,0 +1,7 @@
+C:\Users\DAVID\source\repos\Insurance management system\Plugin\bin\Debug\Plugin.dll
+C:\Users\DAVID\source\repos\Insurance management system\Plugin\bin\Debug\Plugin.pdb
+C:\Users\DAVID\source\repos\Insurance management system\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.csproj.CopyComplete
+C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.dll
+C:\Users\DAVID\source\repos\Insurance management system\Plugin\obj\Debug\Plugin.pdb
