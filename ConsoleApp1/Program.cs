@@ -13,13 +13,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string crmConnectionString = "AuthType=Office365;Url=https://org.crm.dynamics.com;UserName=djmendez@org.onmicrosoft.com;Password=ZWARRIORwar555";
+            string crmConnectionString = "AuthType=Office365;Url=https://dynamictraining.crm.dynamics.com;UserName=EricBooker@dynamictraining.onmicrosoft.com;Password=teddy1500!@#$";
             CrmServiceClient Service = new CrmServiceClient(crmConnectionString);
 
-            Entity contact = new Entity("contact");
-            contact.Attributes.Add("lastname", "Console App");
-
-            //Console.WriteLine(Service.Create(contact));
+            Entity policy = new Entity("rev_policy");
+            policy.Attributes.Add("rev_firstname", "Eric");
+            policy.Attributes.Add("rev_lastname", "Booker");
+            policy.Attributes.Add("rev_country", "United States");
+            policy.Attributes.Add("rev_numberofcars", 1);
+            policy.Attributes.Add("rev_drivingrecord", new OptionSetValue(283210001));
+            Console.WriteLine(Service.Create(policy));
         }
     }
 }
