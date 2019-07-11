@@ -15,14 +15,20 @@ namespace ConsoleApp1
         {
             string crmConnectionString = "AuthType=Office365;Url=https://dynamictraining.crm.dynamics.com;UserName=EricBooker@dynamictraining.onmicrosoft.com;Password=teddy1500!@#$";
             CrmServiceClient Service = new CrmServiceClient(crmConnectionString);
+            var perfect = 283210000;
+            var good = 283210001;
+            var bad = 283210002;
+            var horrible = 283210003;
 
             Entity policy = new Entity("rev_policy");
-            policy.Attributes.Add("rev_firstname", "Eric");
-            policy.Attributes.Add("rev_lastname", "Booker");
+            policy.Attributes.Add("rev_name", "Jordan's Policy");
+            policy.Attributes.Add("rev_firstname", "Jordan");
+            policy.Attributes.Add("rev_lastname", "Eror");
             policy.Attributes.Add("rev_country", "United States");
             policy.Attributes.Add("rev_numberofcars", 1);
-            policy.Attributes.Add("rev_drivingrecord", new OptionSetValue(283210001));
+            policy.Attributes.Add("rev_drivingrecord", new OptionSetValue(horrible));
             Console.WriteLine(Service.Create(policy));
+            Console.ReadKey();
         }
     }
 }
