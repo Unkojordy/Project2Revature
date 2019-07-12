@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin", "Plugin\Plugin.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customworkflows", "Customworkflows\Customworkflows.csproj", "{9C1C2271-166F-4CBE-96FC-88E5DBB546AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{488A82B6-89C0-4FEE-B278-E792B246D603}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange", "ConsoleApp1\CurrencyExchange.csproj", "{488A82B6-89C0-4FEE-B278-E792B246D603}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insurance_Website", "Insurance_Website\Insurance_Website.csproj", "{CBCE9E6F-CCD6-4CF2-A30C-9219FFAD40DC}"
 EndProject

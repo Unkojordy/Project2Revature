@@ -10,7 +10,6 @@ namespace Insurance_Website.Class_Files
     {
         public string Subject { get; set; }
         //public string Title { get; set; }
-        public string Customer { get; set; }
         public string PolicyNumber { get; set; }
 
     }
