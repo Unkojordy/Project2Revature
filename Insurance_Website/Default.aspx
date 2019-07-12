@@ -8,33 +8,33 @@
 
     <div class="row">
         <div class="col-md-6">
-            <form id="policyForm" method="post" >
+            <form id="policyForm" method="POST" >
                 <div class="form-group">
                     <label for="firstName">First Name</label>
-                    <input type="text" class="form-control" id="firstName" name="firstName" runat="server">
+                    <input type="text" class="form-control" ID="firstName" name="firstName">
                 </div>
-                    <div class="form-group">
+                <div class="form-group">
                     <label for="lastName">Last Name</label>
-                    <input type="text" class="form-control" id="lastName" name="lastName" runat="server">
+                    <input type="text" class="form-control" ID="lastName" name="lastName">
                 </div>
                     <div class="form-group">
                     <label for="country">Country</label>
-                    <input type="text" class="form-control" id="country" name="country" runat="server">
+                    <input type="text" class="form-control" ID="country" name="country">
                 </div>
                 <div class="form-group">
                     <label for="numCars">Number of Cars</label>
-                    <input type="text" class="form-control" id="numCars" name="numCars" runat="server">
+                    <input type="text" class="form-control" ID="numCars" name="numCars">
                 </div>
                 <div class="form-group">
                     <label for="drivingRecord">Driving Record</label>
-                    <select id="drivingRecord" runat="server">
-                        <option value="volvo">Poor</option>
-                        <option value="saab">Fair</option>
-                        <option value="vw">Average</option>
-                        <option value="audi" selected>Excellent</option>
+                    <select ID="drivingRecord" name="drivingRecord">
+                        <option value="Perfect">Excellent</option>
+                        <option value="Good">Average</option>
+                        <option value="Bad">Fair</option>
+                        <option value="Horrible">Poor</option>
                     </select> 
                 </div>
-                <button type="submit" class="btn btn-primary" runat="server">Submit</button>
+                <asp:button type="submit" id="submitButton" text="Submit" class="btn btn-primary" runat="server"></asp:button>
             </form>
         </div>
         <div class="col-md-6">
