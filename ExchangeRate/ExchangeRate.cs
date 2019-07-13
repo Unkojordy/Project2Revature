@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExchangeRate
+namespace ExchangeRateWorkFlow
 {
-    class ExchangeRate
+    public class ExchangeRate
     {
         public decimal Value { get; set; }
 

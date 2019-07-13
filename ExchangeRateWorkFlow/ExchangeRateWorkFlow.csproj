@@ -32,8 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Exchange_Rate">
-      <HintPath>..\Exchange_Rate\bin\Debug\Exchange_Rate.dll</HintPath>
+    <Reference Include="ExchangeRate">
+      <HintPath>..\ExchangeRate\bin\Debug\ExchangeRate.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.Xrm.Sdk">

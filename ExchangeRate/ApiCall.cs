@@ -3,13 +3,11 @@ using System.Net.Http;
 using System;
 using System.Web.Script.Serialization;
 
-namespace ExchangeRate
+namespace ExchangeRateWorkFlow
 {
-    class ApiCall
-    {
-        private string apiUrl = "http://apilayer.net/api/live?access_key=9c63c5d26713d53732db01f976b86580&currencies=CAD&source=USD&format=1";
-        
-        protected ExchangeRate GetExchangeRate(string url)
+    public class ApiCall
+    {     
+        public static ExchangeRate GetExchangeRate(string url)
         {
             using (var httpClient = new HttpClient())
             {
