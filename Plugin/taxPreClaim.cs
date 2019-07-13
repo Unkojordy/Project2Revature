@@ -79,7 +79,7 @@ namespace Plugin
                         {
                             Entity newcount = new Entity("rev_config");
                             newcount.Attributes.Add("rev_name", "cantax");
-                            newcount.Attributes.Add("rev_catax", .06m);
+                            newcount.Attributes.Add("rev_catax", .04m);
                             service.Create(newcount);
                             tracingService.Trace("canada tax is empty");
                         }
